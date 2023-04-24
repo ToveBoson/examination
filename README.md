@@ -15,15 +15,15 @@ För att köra my-server:
 
 För att anropa mina endpoints och få alla produkter:
 
-http://localhost:4000/computers
-http://localhost:4000/audios
-http://localhost:4000/televisions
-http://localhost:4000/mobiles
+# http://localhost:4000/computers
+# http://localhost:4000/audios
+# http://localhost:4000/televisions
+# http://localhost:4000/mobiles
 
 
 För specifika produkter, skriv som ovan med lägg till det specifika id:t du vill söka på:
 
-http://localhost:4000/computers/:id
-http://localhost:4000/audios/:id
-http://localhost:4000/televisions/:id
-http://localhost:4000/mobiles/:id
+# http://localhost:4000/computers/:id
+# http://localhost:4000/audios/:id
+# http://localhost:4000/televisions/:id
+# http://localhost:4000/mobiles/:id
